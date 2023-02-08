@@ -1,0 +1,1 @@
+We will be praticing how to create bash scripts in this repository
